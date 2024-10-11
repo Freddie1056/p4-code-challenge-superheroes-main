@@ -33,9 +33,9 @@ To set up and run this project locally, ensure you have [Node.js](https://nodejs
    ```bash
    git clone https://github.com/username/project-name.git
    cd project-name
-Install dependencies:
 
-```bash
+
+Install dependencies:
 
 Copy code
 npm install
