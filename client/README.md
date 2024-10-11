@@ -46,7 +46,7 @@ Copy code
 
 npm start
 
-The app will open in your default browser at http://localhost:3000. The server automatically reloads as changes are made.
+3. The app will open in your default browser at http://localhost:3000. The server automatically reloads as changes are made.
 
 Available Scripts
 In the project directory, you can run the following scripts:
