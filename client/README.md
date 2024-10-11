@@ -35,14 +35,17 @@ To set up and run this project locally, ensure you have [Node.js](https://nodejs
    cd project-name
 Install dependencies:
 
-bash
+```bash
+
 Copy code
 npm install
 Start the development server:
 
-bash
+```bash
 Copy code
+
 npm start
+
 The app will open in your default browser at http://localhost:3000. The server automatically reloads as changes are made.
 
 Available Scripts
@@ -51,7 +54,7 @@ In the project directory, you can run the following scripts:
 Running the App
 To start the app in development mode:
 
-bash
+```bash
 Copy code
 npm start
 This will launch the app at http://localhost:3000. The page will reload automatically if you modify any source files. Linting errors will appear in the console.
@@ -59,7 +62,8 @@ This will launch the app at http://localhost:3000. The page will reload automati
 Running Tests
 To execute the test suite:
 
-bash
+```bash
+
 Copy code
 npm test
 This command runs tests using Jest in interactive watch mode, automatically rerunning tests when changes are made.
@@ -67,7 +71,8 @@ This command runs tests using Jest in interactive watch mode, automatically reru
 Building for Production
 To create an optimized build for production:
 
-bash
+```bash
+
 Copy code
 npm run build
 This creates a build/ folder with the minified and optimized production code.
@@ -75,7 +80,8 @@ This creates a build/ folder with the minified and optimized production code.
 Ejecting Configuration
 To customize the build configuration:
 
-bash
+```bash
+
 Copy code
 npm run eject
 Note: Ejecting is a one-way operation. Once you eject, you cannot undo this action. It will expose all underlying configuration files like Webpack, Babel, and ESLint.
@@ -87,7 +93,8 @@ Code splitting helps improve performance by splitting large bundles into smaller
 Bundle Analysis
 To analyze the size of your JavaScript bundles:
 
-bash
+```bash
+
 Copy code
 npm run build
 npm install -g source-map-explorer
