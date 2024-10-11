@@ -35,7 +35,7 @@ To set up and run this project locally, ensure you have [Node.js](https://nodejs
    cd project-name
 
 
-Install dependencies:
+2. Clone the repository:
 
 Copy code
 npm install
